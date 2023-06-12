@@ -15,19 +15,14 @@
 # How to run?
 ### STEPS:
 
-Clone the repository
-
-```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n summary python=3.8 -y
+conda create -n text_sum python=3.8 -y
 ```
 
 ```bash
-conda activate summary
+conda activate text_sum
 ```
 
 
@@ -46,15 +41,6 @@ Now,
 ```bash
 open up you local host and port
 ```
-
-
-```bash
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
-
-```
-
 
 
 # AWS-CICD-Deployment-with-Github-Actions
